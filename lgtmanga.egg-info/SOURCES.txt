@@ -1,8 +1,0 @@
-README.rst
-setup.py
-lgtmanga/__init__.py
-lgtmanga.egg-info/PKG-INFO
-lgtmanga.egg-info/SOURCES.txt
-lgtmanga.egg-info/dependency_links.txt
-lgtmanga.egg-info/requires.txt
-lgtmanga.egg-info/top_level.txt
