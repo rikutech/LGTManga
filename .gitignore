@@ -1,5 +1,5 @@
-/input.jpg
-/result.jpg
+/input_images/*
+/result_images/*
 /.vscode
 
 # Byte-compiled / optimized / DLL files
